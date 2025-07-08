@@ -83,7 +83,7 @@ npm run dev
 
 
 
-| Tickets | Ticket in Support State | Engineer Dashboard |
+| Tickets |  Support Status | Engineer Dashboard |
 |------------------|------------------|----------------|
 | ![dashboard](./public/4.png) | ![form](./public/5.png) | ![status](./public/6.png) |
 
