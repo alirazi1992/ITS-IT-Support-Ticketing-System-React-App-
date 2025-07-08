@@ -17,9 +17,9 @@ ITS is a clean, fast, and responsive web-based tickedt management system designe
 
 ## Project Structer 
 
-src/
-|
-|Components 
+
+|src|
+|Components|
 |------|
 |------|--------|Header.jsx
 |------|
