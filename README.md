@@ -1,4 +1,4 @@
-#ITs - IT Support Ticketing System (React App) 
+# ITs - IT Support Ticketing System (React App) 
 
 ITS is a clean, fast, and responsive web-based tickedt management system designed to help organizations managwe support issues, track ticket status, and streamline between usears amnd IT engineers. Built using React, Tailwind CSS, and React Router.
 
