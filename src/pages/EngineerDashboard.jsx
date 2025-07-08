@@ -4,7 +4,7 @@ import { useState } from 'react';
 const mockSurveys = [
   {
     id: 1,
-    shipName: 'Darya-101',
+    TickName: 'Darya-101',
     problemType: 'مشکل عدم نمایش شناورها',
     assignName: 'مهندس رضایی',
     date: '2025-06-12',
@@ -14,7 +14,7 @@ const mockSurveys = [
   },
   {
     id: 2,
-    shipName: 'Persian Star',
+    TickName: 'Persian Star',
     problemType: 'فراموشی رمز سیستم',
     assignName: 'مهندس کریمی',
     date: '2025-05-22',
