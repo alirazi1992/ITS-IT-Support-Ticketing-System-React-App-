@@ -18,20 +18,31 @@ ITS is a clean, fast, and responsive web-based tickedt management system designe
 ##  📁 Project Structer 
 
 src/
+
 │
 ├── components/
+
 │ └── Sidebar.jsx
+
 │ └── Header.jsx
-│
+
 ├── pages/
+
 │ └── Dashboard.jsx # User dashboard
+
 │ └── EngineerDashboard.jsx # Engineer dashboard
+
 │ └── SurveyStatus.jsx # Ticket status listing
+
 │ └── InspectionRequest.jsx # Ticket request form
+
 │ └── Certificates.jsx # List of ticket attachments (mocked as certificates)
+
 │ └── AssignedEngineer.jsx # Engineer profile for handling tickets
+
 │
 ├── App.jsx # Main layout and routes
+
 └── main.jsx # App entry point
 
 
