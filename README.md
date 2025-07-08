@@ -77,6 +77,18 @@ npm run dev
 
 ### 📸 Screenshots
 
+| Dashboard (RTL) | Ticket Request| Ticket Status |
+|------------------|------------------|----------------|
+| ![dashboard](./public/1.png) | ![form](./public/2.png) | ![status](./public/3.png) |
+
+
+
+| Tickets | Ticket in Support State | Engineer Dashboard |
+|------------------|------------------|----------------|
+| ![dashboard](./public/4.png) | ![form](./public/5.png) | ![status](./public/6.png) |
+
+
+
 
 ### 📌 Notes 
 
