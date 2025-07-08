@@ -19,7 +19,7 @@ ITS is a clean, fast, and responsive web-based tickedt management system designe
 
 src/
 |
-|------Components 
+|Components 
 |------|
 |------|--------|Header.jsx
 |------|
