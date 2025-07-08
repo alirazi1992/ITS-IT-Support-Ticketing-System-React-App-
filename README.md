@@ -1,4 +1,4 @@
-# ITs - IT Support Ticketing System (React App) 
+# ITS - IT Support Ticketing System (React App) 
 
 ITS is a clean, fast, and responsive web-based tickedt management system designed to help organizations managwe support issues, track ticket status, and streamline between usears amnd IT engineers. Built using React, Tailwind CSS, and React Router.
 
@@ -66,6 +66,29 @@ npm install
 ``` bash
 npm run dev
 ```
+
+### 🛠 Tech Stack 
+
+  - **React.js**
+  - **Tailwind CSS**
+  - **React Router DOM**
+  - **React Toastify**
+  - **Vite**
+
+### 📸 Screenshots
+
+
+### 📌 Notes 
+
+  - Tickect data is currremtly mocked . You can later repalce it with backend(Node.js, Firebase, etc.).
+  - Message sending, attachments, and statuses are stored in local component state.
+  - Support both IT asmins and IT engineers with role-based views.
+
+### 🧑‍💻 Created By 
+ **Ali Razi**
+
+🌐Linkedin: linkedin.com\in\alirazi1992
+ 
 
 
 
